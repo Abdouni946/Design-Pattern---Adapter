@@ -1,3 +1,3 @@
 # Design Pattern - Adapter
 
-![image.png](img.png)
+![image.png](src/img.png)
